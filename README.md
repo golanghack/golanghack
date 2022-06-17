@@ -1,4 +1,14 @@
 <img src="header.png">
+<p align='center'>
+  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=golanghack&count_private=true&show_icons=true&theme=buefy" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golanghack&layout=compact&theme=buefy" />
+</p>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=golanghack&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golanghack&theme=solarized_dark">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=golanghack&theme=solarized_dark">
@@ -27,18 +37,6 @@
 
 
 
-<p align='center'>
-  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=golanghack&count_private=true&show_icons=true&theme=buefy" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golanghack&layout=compact&theme=buefy" />
-</p>
-
-
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
 <img src="https://readme-jokes.vercel.app/api">
@@ -52,3 +50,18 @@
 <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
                                                                                                            
+
+
+[![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=golanghack&count_private=true&show_icons=true&theme=buefy)](https://github.com/golanghack)
+[![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=golanghack&layout=compact&theme=buefy)](https://github.com/golanghack)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golanghack&layout=compact&theme=buefy)](https://github.com/golanghack)
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
+[<img align="left" width="400" alt="if you see this, it means my metrics are not working" src="https://github.com/teuchezh/teuchezh/blob/main/github-metrics.svg">](https://github.com/teuchezh/teuchezh)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z88g2ishnobkjgkwo6k3yumb4&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=z88g2ishnobkjgkwo6k3yumb4&redirect=true)
+
+ [<img align="right" width="350" height="auto" alt="if you see this, it means my metrics are not working" src="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing">](https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing?open)
