@@ -1,5 +1,5 @@
 <img src="header.png">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=golanghack&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=golanghack&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 <img src="https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
