@@ -2,6 +2,7 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=golanghack&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golanghack">
 <img src="https://github-readme-stats.vercel.app/api?username=golanghack">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golanghack&theme=solarized_dark">
 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 <img src="https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
