@@ -34,10 +34,6 @@
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 
-
-
-
-
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
 <img src="https://readme-jokes.vercel.app/api">
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
@@ -52,9 +48,3 @@
                                                                                                            
 
 
-[![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=golanghack&count_private=true&show_icons=true&theme=buefy)](https://github.com/golanghack)
-[![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=golanghack&layout=compact&theme=buefy)](https://github.com/golanghack)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golanghack&layout=compact&theme=buefy)](https://github.com/golanghack)
-
-
- [<img align="right" width="350" height="auto" alt="if you see this, it means my metrics are not working" src="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing">](https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing?open)
