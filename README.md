@@ -1,5 +1,4 @@
 <img src="header.png">
-<img src="https://github-profile-trophy.vercel.app/?username=golanghack)](https://github.com/golanghack/github-profile-trophy)">
 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 <img src="https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
