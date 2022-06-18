@@ -1,4 +1,5 @@
-<img src="header.png">
+<div align="center">
+  <img src="header.png">
 <p align='center'>
   <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 </p>
@@ -19,7 +20,7 @@
 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
-
+  
 
 
 
@@ -39,4 +40,4 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling">
                                                                                                            
 
-
+</div>
